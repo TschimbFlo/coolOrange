@@ -1,0 +1,13 @@
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallengeTest\bin\Debug\coolOrange_CandidateChallengeTest.dll
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallengeTest\bin\Debug\coolOrange_CandidateChallengeTest.pdb
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallengeTest\bin\Debug\coolOrange_CandidateChallenge.exe
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallengeTest\bin\Debug\nunit.framework.dll
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallengeTest\bin\Debug\coolOrange_CandidateChallenge.pdb
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallengeTest\bin\Debug\coolOrange_CandidateChallenge.exe.config
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallengeTest\bin\Debug\nunit.framework.pdb
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallengeTest\bin\Debug\nunit.framework.xml
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallengeTest\obj\Debug\coolOrange_CandidateChallengeTest.csproj.AssemblyReference.cache
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallengeTest\obj\Debug\coolOrange_CandidateChallengeTest.csproj.CoreCompileInputs.cache
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallengeTest\obj\Debug\coolOrange_CandidateChallengeTest.csproj.CopyComplete
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallengeTest\obj\Debug\coolOrange_CandidateChallengeTest.dll
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallengeTest\obj\Debug\coolOrange_CandidateChallengeTest.pdb

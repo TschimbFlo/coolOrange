@@ -1,0 +1,7 @@
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallenge\obj\Debug\coolOrange_CandidateChallenge.csproj.AssemblyReference.cache
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallenge\obj\Debug\coolOrange_CandidateChallenge.csproj.CoreCompileInputs.cache
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallenge\bin\Debug\coolOrange_CandidateChallenge.exe.config
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallenge\bin\Debug\coolOrange_CandidateChallenge.exe
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallenge\bin\Debug\coolOrange_CandidateChallenge.pdb
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallenge\obj\Debug\coolOrange_CandidateChallenge.exe
+C:\hoffentlich Desktop\TMP\Project\coolOrange_CandidateChallenge\obj\Debug\coolOrange_CandidateChallenge.pdb
